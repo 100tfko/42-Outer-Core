@@ -7,3 +7,4 @@ The projects here explore areas that go beyond the foundations of the Common Cor
 ## Projects
 
 - 📦 [dslr — Data Science & Logistic Regression](https://github.com/100tfko/42-OuterCore-dslr)
+- 📦 [ft_linear_regression](https://github.com/100tfko/42-OuterCore-ft_linear_regression)

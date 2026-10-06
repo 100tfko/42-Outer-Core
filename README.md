@@ -19,3 +19,4 @@ The projects are organized below by their corresponding sections:
 ### 📁 Algorithms & AI & Data
 
 - 📦 [dslr](https://github.com/100tfko/42-OuterCore-dslr)
+- 📦 [ft_linear_regression](https://github.com/100tfko/42-OuterCore-ft_linear_regression)

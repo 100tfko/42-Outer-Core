@@ -1,3 +1,6 @@
 [submodule "Algorithms-AI-Data/42-OuterCore-dslr"]
 	path = Algorithms-AI-Data/42-OuterCore-dslr
 	url = git@github.com:100tfko/42-OuterCore-dslr.git
+[submodule "Algorithms-AI-Data/42-OuterCore-ft_linear_regression"]
+	path = Algorithms-AI-Data/42-OuterCore-ft_linear_regression
+	url = git@github.com:100tfko/42-OuterCore-ft_linear_regression.git
